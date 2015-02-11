@@ -1,6 +1,6 @@
 class Website < Sinatra::Base
 
-  get '/' do
-    erb :"welcome/welcome"
+  get '/misc' do
+    erb :"intros/misc"
   end
 end
