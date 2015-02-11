@@ -1,0 +1,25 @@
+.nav-pills > li {
+  float: none;
+  display:inline-block;
+  zoom:1;
+}
+
+.nav-tabs, .nav-pills {
+  text-align:center;
+}
+
+.container {
+  /*border: solid black;*/
+}
+
+.content {
+  text-align:center;
+}
+
+.footer {
+  text-align:center;
+}
+
+.container .footer {
+  width: 900px;
+}
